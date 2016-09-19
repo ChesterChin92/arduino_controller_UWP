@@ -1,0 +1,1 @@
+C:\Users\Chester Chin\documents\visual studio 2015\Projects\ArduinoControllerMain\ArduinoControllerMain\ArduinoControllerMain.csproj;x86
